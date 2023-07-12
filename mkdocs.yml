@@ -1,5 +1,7 @@
 site_name: My Docs
-
+nav:
+  - Index: 'index.md'
+  - Quickstart Guide: 'quickstart.md'
 theme:
   name: material
 
