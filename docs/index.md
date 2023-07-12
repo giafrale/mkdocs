@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# Welcome to *Contemporary Thoughts*
+author
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+!!! quote 
 
-## Commands
+    Success is not final; failure is not fatal: it is the courage to continue that counts.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+    :octicons-milestone-24: Winston Churchill
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+!!! quote
+    
+    Su Wikipedia scriveranno 
+
+    _Giacomo Francesco Leonardo Miceli è stato un artista, scienziato, intellettuale, pensatore, divulgatore, sociologo, politologo e politico  del ventunesimo secolo. Ha guidato e ispirato le nuove generazioni nella creazione di uno stato sociale equo, anticonformista e moderno._
+
+    :octicons-heart-fill-24:{ .heart } My wife
+
+
+!!! quote
+
+    Our theories fall short in capturing the profound intricacies of the world, while its inherent simplicity eludes our perception.
+
+    :octicons-unlock-24: Myself
