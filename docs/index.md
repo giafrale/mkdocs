@@ -1,5 +1,7 @@
 # Welcome to *Contemporary Thoughts*
-author
+_Giacomo Miceli_
+
+---
 
 !!! quote 
 
